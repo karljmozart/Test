@@ -18,7 +18,8 @@
 // following variables to use with your drivetrain subsystem.
 // constexpr int kLeftMotor = 1;
 // constexpr int kRightMotor = 2;
-
+const int RIGHTMOTOR = 1;
+const int LEFTMOTOR = 2;
 // If you are using multiple modules, make sure to define both the port
 // number and the module. For example you with a rangefinder:
 // constexpr int kRangeFinderPort = 1;
